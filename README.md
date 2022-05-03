@@ -7,7 +7,7 @@
 ## 使用方法
 
 ```
-cd .../code/
+cd .../Code/
 g++ Ex2_Yomi.cpp -o Ex2_Yomi.out
 ./Ex2_Yomi.out
 ```
